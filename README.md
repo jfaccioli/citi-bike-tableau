@@ -1,5 +1,9 @@
 # Tableau Homework - Citi Bike Analytics
 
+Link to my Tableau Analysis:
+https://public.tableau.com/views/tableau-challenge_16276312305800/CityBikeDataAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub.
